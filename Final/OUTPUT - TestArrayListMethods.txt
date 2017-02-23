@@ -1,0 +1,22 @@
+Input a number for List A: 123
+Input a number for List A: 45
+Input a number for List A: 68
+Input a number for List A: 96
+Input a number for List A: 12
+Input a number for List A: 13
+Input a number for List A: 11
+Input a number for List A: 68
+Input a number for List A: 123
+Input a number for List A: 
+
+Input a number for List B: 99
+Input a number for List B: 88
+Input a number for List B: 77
+Input a number for List B: 66
+Input a number for List B: 68
+Input a number for List B: 13
+Input a number for List B: 12
+Input a number for List B: 11
+Input a number for List B: 
+Result of merge sort of sortedOne and sortedTwo is: 
+11 11 12 12 13 13 45 66 68 68 68 77 88 96 99 123 123 
